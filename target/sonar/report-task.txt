@@ -1,0 +1,6 @@
+projectKey=blossoms.cherry.blue:jenkins
+serverUrl=http://localhost:9000
+serverVersion=7.9.6.41879
+dashboardUrl=http://localhost:9000/dashboard?id=blossoms.cherry.blue%3Ajenkins
+ceTaskId=AXnSs1gb28P366TasjB9
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXnSs1gb28P366TasjB9
